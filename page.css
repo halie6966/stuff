@@ -8,4 +8,14 @@ h1 {
     margin-right: auto;
     margin-top: 225px;
     font-size:50px;
+    /*font-family: 'Playfair Display SC', serif;*/
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: 'Parisienne', cursive;
+}
+
+#pop {
+  font-family: 'Kirang Haerang', cursive;
+}
+#faout{
+  font-family: 'Lora', serif;
 }
