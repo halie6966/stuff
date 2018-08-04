@@ -1,3 +1,17 @@
+h1{
+  color: black;
+  font-size: 20px;
+}
+
+img{
+  height: 200px;
+  width:  200px;
+}
 p{
   color: black;
+  font-family:  'Noto Serif', serif;
+}
+
+body{
+  background-color: lightblue;
 }
