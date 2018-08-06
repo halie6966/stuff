@@ -40,3 +40,70 @@ p{
   color: black;
   font-size: 20px;
 }
+
+.phone{
+  padding-left:-10%;
+  padding-right:-10%;
+  display:inline;
+  float: right
+}
+#jr {
+  font-family: 'Permanent Marker', cursive;
+  float: right;
+  font-size: 20px;
+  color:black
+}
+
+#jr p{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20
+}
+.banana{
+  padding-left:-10%;
+  padding-right:-10%;
+  display:inline;
+  float: left;
+}
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 40px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    position: relative;
+    left: 200px;
+  }
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+.success {color: #800000;}
+.info {color: #2F6450;}
+.warning {color: #2F3864;}
+.danger {color: #642F43;}
+
+.aboutus{
+  border: none;
+  background-color: inherit;
+  padding: 40px 50px;
+  font-size: 20px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  bottom: 0px;
+}
+
+footer{
+  display: block;
+  position: absolute;
+  bottom:0px;
+  text-align: center;
+  margin-right: 600px;
+  margin-left: 600px;
+}
