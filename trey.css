@@ -1,10 +1,42 @@
-p{
+body{
   color:white;
   font-size: 20px;
 }
 
+#summer{
+  color:#FFFFFF;
 
-
-body{
-  background-color: purple;
 }
+
+#ron{
+  font-size: 100px;
+}
+
+#toni{
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+#soso{
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+#rere{
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+#warren{
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+#taylor{
+  color: #FFFFFF;
+}
+
+.font-white{
+   color: #FFFFFF;
+   font-size: 20px;
+ }
