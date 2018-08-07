@@ -35,7 +35,13 @@ iframe {
 #k{
 font-family: 'Permanent Marker', cursive;
 }
-
+#kd{
+  font-family: 'Permanent Marker', cursive;
+  padding-left:-10%;
+  padding-right:-10%;
+  display:inline;
+  float: left;
+}
 p{
   color: black;
   font-size: 20px;
@@ -45,7 +51,7 @@ p{
   padding-left:-10%;
   padding-right:-10%;
   display:inline;
-  float: right
+  float: right;
 }
 #jr {
   font-family: 'Permanent Marker', cursive;
@@ -54,7 +60,7 @@ p{
   color:black
 }
 
-#jr p{
+ p{
   font-family: 'Oswald', sans-serif;
   font-size: 20
 }
@@ -106,4 +112,16 @@ footer{
   text-align: center;
   margin-right: 600px;
   margin-left: 600px;
+}
+
+.row {
+  display: flex;
+}
+
+.iframe {
+  padding-top: 30px;
+}
+
+.flex-end {
+  justify-content: flex-end;
 }
